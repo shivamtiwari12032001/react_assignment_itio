@@ -1,12 +1,12 @@
 import React, { PureComponent } from 'react';
 import { PieChart, Pie, Cell } from 'recharts';
-// Importing a dollar icon from react-icons
 
 
-const cx = 100; // Center x-coordinate
-const cy = 150; // Center y-coordinate
-const iR = 50; // Inner Radius
-const oR = 100; // Outer Radius
+
+const cx = 100; 
+const cy = 150; 
+const iR = 50; 
+const oR = 100; 
 
 export default class Example extends PureComponent {
   render() {

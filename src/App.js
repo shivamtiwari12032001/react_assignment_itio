@@ -33,18 +33,17 @@ const App = () => {
     { price: '102069.00', quantity: '0.00600', time: '02:52:33 PM' },
     { price: '102069.00', quantity: '0.00600', time: '02:52:33 PM' },
     { price: '102069.00', quantity: '0.00600', time: '02:52:33 PM' },
-    { price: '102069.00', quantity: '0.00600', time: '02:52:33 PM' },
-
+    { price: '102069.00', quantity: '0.00600', time: '02:52:33 PM' }
   ];
+
+  
   const cryptoTransactions = [
     { date: '2025-01-17', trx: 'DOGE', type: 'Bank Transfer', amount: '26.755', details: 'Buy', status: 'Pending' },
-
   ];
 
   const creditedData = [
     { name: 'A', value: 80, color: '#90EE90' },
     { name: 'B', value: 20, color: '#D3D3D3' },
-    
   ];
 
   const debitedData = [
@@ -55,7 +54,6 @@ const App = () => {
   const revenueData = [
     { name: 'C', value: 25, color: '#FFA500' },
    { name: 'B', value: 20, color: '#D3D3D3' },
-
  ];
 
 
